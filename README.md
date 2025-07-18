@@ -1,7 +1,7 @@
 # SRG_KLEF-Telugu_sentences
 
-This zipped file consists of 50 Phonetic Rich Telugu sentence sets.
-The name of the first set is TL_pRichSent_3w_01 in pdf formats.
+This zipped file consists of 50 Phonetically rich Telugu sentence sets.
+The name of the first set is TL_pRichSent_3w_01 in pdf format.
 File naming convention is shown below:
 
 TL_pRichSent_3w_01	- name of the file

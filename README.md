@@ -3,9 +3,12 @@
 This zipped file consists of 50 Phonetically rich Telugu sentence sets. File naming convention is shown below.
 
 TL_pRichSent_3w_01: name of the file
+
 TL         : Telugu 
 pRichSent  : phonetically Rich Sentences 
+
 3w         - 3 words per sentence
+
 01         - sentence set number {01-50}
 
 
